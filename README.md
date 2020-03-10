@@ -81,9 +81,7 @@ Options (all optional):
 - `subtypes` (array of strings)
 - `types`(type string | array of strings | array of {type: subtypes})
 - `protocol` (string) - defaults to `tcp`
-- `txt` (object) - passed into [dns-txt
-  module](https://github.com/watson/dns-txt) contructor. Set to `{
-  binary: true }` if you want to keep the TXT records in binary
+- `txt` (object) - set to `{ binary: true }` if you want to keep the TXT records in binary
 
 #### `var browser = bonjour.findOne(options[, callback])`
 
