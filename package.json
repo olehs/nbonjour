@@ -19,7 +19,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/taoyuan/nbonjour.git"
+		"url": "https://github.com/olehs/nbonjour.git"
 	},
 	"keywords": [
 		"bonjour",
@@ -42,7 +42,7 @@
 	],
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/taoyuan/nbonjour/issues"
+		"url": "https://github.com/olehs/nbonjour/issues"
 	},
-	"homepage": "https://github.com/taoyuan/nbonjour"
+	"homepage": "https://github.com/olehs/nbonjour"
 }
