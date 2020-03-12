@@ -8,7 +8,7 @@
 		"deep-equal": "^1.0.1",
 		"dns-equal": "^1.0.0",
 		"multicast-dns": "olehs/multicast-dns",
-		"multicast-dns-service-types": "^1.1.0"
+		"multicast-dns-service-types": "olehs/multicast-dns-service-types"
 	},
 	"devDependencies": {
 		"after-all": "^2.0.2",
