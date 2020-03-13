@@ -81,7 +81,7 @@ Options (all optional):
 - `subtypes` (array of strings)
 - `types`(type string | array of strings | array of {type: subtypes})
 - `protocol` (string) - defaults to `tcp`
-- `txt` (object) - set to `{ binary: true }` if you want to keep the TXT records in binary
+- `txtOptions` (object) - set to `{ binary: true }` if you want to keep the TXT records in binary
 
 #### `var browser = bonjour.findOne(options[, callback])`
 
